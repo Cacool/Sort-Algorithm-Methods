@@ -1,3 +1,4 @@
+/* method I */
 void swap(int &a, int &b)
 {
 	int temp;
